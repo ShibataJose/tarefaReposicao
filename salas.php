@@ -31,7 +31,7 @@ include "./cabecalho.php"?>
 $tabela = array
 (
   array("0","Sala 4","Sala 4","Sala4"),
-  array("1","Sala 5","Sala 5","Sala 5"),
+  array("1","Sala 5","Sala 5","Sala5"),
   array("2", "Laboratório 4","Laboratorio de Informatica","Lab04"),
   array("3", "Laboratório 1","Laboratorio de Informatica","Lab01"),
   array("4", "Laboratório 2","Laboratorio de Informatica","Lab02"),
